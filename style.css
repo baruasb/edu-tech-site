@@ -1,9 +1,11 @@
-.course-button{
-    display: flex;
-   
+.reg-button a{
+    text-decoration: none;
+    border: 1px solid white;
+    background-color: white;
+    padding: 10px 20px 10px;
+    border-radius: 3px;
 }
-.register-section{
 
-    padding-left: 30px;
+.reg-button{
+    font-weight: 670;
 }
-
